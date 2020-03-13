@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ecd9ed-7486-4556-9b70-f42bf143d5dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/Adam &amp; Eva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adam &amp; Eva/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_Js/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array_Js/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyenTapVongLap1/IndexBt8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_LuyentapVonglap2/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bang_Cuu_Chuong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bang_Cuu_Chuong/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCalculator/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCalculator/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/.idea/Bob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bob/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bouncing Ball Game/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bouncing Ball Game/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bouncing Ball Game/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/Ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/Brick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/Paddle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/.idea/Case_Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/JS/Brick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/JS/Taskbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/JS/Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/JS/ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Js/Ball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Js/Brick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Js/Paddle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_Module1/Js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Check_number_Prime/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Check_number_Prime/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meters/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meters/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curriculum-Vitae/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curriculum-Vitae/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/Danh_Sach_Sinh_Vien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Danh_Sach_Sinh_Vien/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaoNguoc_Array/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaoNguoc_Array/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoFunciton/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_Opp/js/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoYouLoveMe/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faking Textarea on Typing/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funny_Circles/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funny_Circles/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_Caro/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/images/pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_DiChuyenDoiTuong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_LaiXe/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_LaiXe/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Good-fast-cheap/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Good-fast-cheap/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoatDong_DenPin/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoatDong_DenPin/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork1/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork1/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra_Tu_DoiXung/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra_Tu_DoiXung/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LsNH/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LsNH/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/IndexBT7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDK1/js/appB7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapCauTrucDieuKien2/IndexBT9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_Array2/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap_HackkerRank/hackkerrank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham1/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyen_Tap_Ham2/IndexBt9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyentap_Array1/IndexBt9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_DienThoai/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_HinhChuNhat/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoTa_HinhChuNhat/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MouseAndCat/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MouseAndCat/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote&amp;Tivi/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remote&amp;Tivi/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../So_Nguyen_To/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../So_Nguyen_To/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Su_Dung_Cac_Ham_Co_San_Array/IndexBt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Su_Dung_Cac_Ham_Co_San_Array/indexBt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Su_Dung_Cac_Ham_Co_San_Array/indexBt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoBan_Caro/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoBan_Caro/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemperatureConverter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XD_Lop_Hinh_Tron/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XD_Lop_Hinh_Tron/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XayDungLop_Date/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanh_XayDungLop_Date/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic tac toe/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic tac toe/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimGiaTriMax_Array/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimGiaTri_Array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tim_Min_Array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuDien/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuDien/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuongTac_Button&amp;Lamp/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuongTac_Button&amp;Lamp/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ung_Dung_Quan_Ly_SP/Js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/IndexBT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/IndexBT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/js/appBT1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_Lap_for/js/appBT2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_lap_do..while/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_lap_longnhau/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_lap_while/indexBT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vong_lap_while/js/appBT2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XD_LopMoTa_Temperature/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XD_LopMoTa_Temperature/Js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Body Mass Index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Body Mass Index/js/bmi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Body Mass Index/js/bmi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curriculum Vitae/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curriculum Vitae/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game puzzle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game puzzle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Calculator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TinhSoNgayTrongThang/Index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/Style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js/Ball.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js/Paddle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js/Brick.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js/Text.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Js/App.js" />
+        <option value="$PROJECT_DIR$/Css/Style.css" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/Js/Text.js" />
+        <option value="$PROJECT_DIR$/Js/main.js" />
+        <option value="$PROJECT_DIR$/Js/Brick.js" />
+        <option value="$PROJECT_DIR$/Js/Paddle.js" />
+        <option value="$PROJECT_DIR$/Js/Ball.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="width" value="1438" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CaseStudy_VHT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaseStudy_VHT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaseStudy_VHT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaseStudy_VHT" type="462c0819:PsiDirectoryNode" />
+              <item name="Css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaseStudy_VHT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaseStudy_VHT" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaseStudy_VHT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaseStudy_VHT" type="462c0819:PsiDirectoryNode" />
+              <item name="Js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ecd9ed-7486-4556-9b70-f42bf143d5dd" name="Default Changelist" comment="" />
+      <created>1583740824720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583740824720</updated>
+      <workItem from="1583740826060" duration="600000" />
+      <workItem from="1583762516875" duration="1727000" />
+      <workItem from="1583794013265" duration="27000" />
+      <workItem from="1583857608100" duration="140000" />
+      <workItem from="1584004618046" duration="633000" />
+      <workItem from="1584005303885" duration="405000" />
+      <workItem from="1584005739767" duration="11917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15449000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12161269" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Ball.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Paddle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Brick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
